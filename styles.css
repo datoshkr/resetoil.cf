@@ -1,0 +1,12 @@
+body {
+  max-width: 468px;
+  margin: auto;
+  padding: 30px;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+ul {
+  line-height: 200%;
+}
