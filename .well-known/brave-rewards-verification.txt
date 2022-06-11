@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: resetoil.cf
+Token: eacafe08e515f782e3080665dbc1f5b2eb3d71ebc657c3f77ca5c0c8615eeb6a
