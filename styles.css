@@ -7,6 +7,3 @@ body {
   display: grid;
   grid-template-columns: auto auto;
 }
-ul {
-  line-height: 200%;
-}
